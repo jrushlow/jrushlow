@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Projects I love!
+
+- [SymfonyCasts!](https://symfonycasts.com) [ResetPasswordBundle](https://github.com/symfonycasts/reset-password-bundle)
+- [SymfonyCasts!](https://symfonycasts.com) [VerifyEmailBundle](https://github.com/symfonycasts/verify-email-bundle)
 <!--
 **jrushlow/jrushlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
